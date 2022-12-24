@@ -1,0 +1,23 @@
+.userFrofile {
+    background-image: url(../../../public/img/backgroundprofile1.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.body {
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 600px;
+    width: 75%;
+    background-color: rgba(134, 117, 104, 0.34);
+    border-radius: 5%;
+}

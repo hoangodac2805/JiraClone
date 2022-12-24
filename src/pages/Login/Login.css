@@ -1,0 +1,9 @@
+.loginCyber{
+    background-image: url(../../../public/img/background-login.jpeg)
+    ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
